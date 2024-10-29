@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AS Sendfox Opt-In Integration with Zippy Courses\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-06 11:38+0000\n"
+"PO-Revision-Date: 2020-02-06 11:40+0000\n"
+"Last-Translator: admin <solanki.malay@gmail.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#: integration.php:90
+msgid "Access Token"
+msgstr "Access Token"
+
+#. Author of the plugin
+msgid "aksharsoftsolutions"
+msgstr "aksharsoftsolutions"
+
+#. Name of the plugin
+msgid "AS Sendfox Opt-In Integration with Zippy Courses"
+msgstr "AS Sendfox Opt-In Integration with Zippy Courses"
+
+#: integration.php:83
+msgid "Enabled?"
+msgstr "Enabled?"
+
+#. Author URI of the plugin
+msgid "http://aksharsoftsolutions.com/"
+msgstr "http://aksharsoftsolutions.com/"
+
+#. Description of the plugin
+msgid "Integrate Zippy Courses with Sendfox Opt-In"
+msgstr "Integrate Zippy Courses with Sendfox Opt-In"
+
+#: integration.php:86
+msgid "No"
+msgstr "No"
+
+#: integration.php:87
+msgid "Yes"
+msgstr "Yes"
+
+#: lib/API.php:71
+msgid "Your Convert Kit settings are missing."
+msgstr "Your Convert Kit settings are missing."
